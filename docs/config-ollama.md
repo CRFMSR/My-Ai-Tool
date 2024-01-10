@@ -89,7 +89,7 @@ Reach out to our community if you need help with this.
 
 Join our community to share your experiences, get help, and discuss best practices:
 
-[![Official Discord](https://discordapp.com/api/guilds/1098796266906980422/widget.png?style=banner2)](https://discord.gg/MkH4qj2Jp9)
+[![Official Discord](https://discordapp.com/api/guilds/1098796266906980422/widget.png?style=banner2)](https://discord.gg/97SGjeVz)
 
 
 ---
