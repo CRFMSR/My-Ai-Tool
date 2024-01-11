@@ -12,10 +12,10 @@ export const Brand = {
     Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'big-AGI',
   },
   Meta: {
-    Description: 'Launch big-AGI to unlock the full potential of AI, with precise control over your data and models. Voice interface, AI personas, advanced features, and fun UX.',
-    SiteName: 'big-AGI | Precision AI for You',
+    Description: 'Launch Vaulty AGI to unlock the full potential of AI, with precise control over your data and models. Voice interface, AI personas, advanced features, and fun UX.',
+    SiteName: 'Vaulty| Blockchain Asset Insurance AI for You',
     ThemeColor: '#32383E',
-    TwitterSite: '@enricoros',
+    TwitterSite: '@Vaulty',
   },
   URIs: {
     Home: 'https://big-agi.com',
